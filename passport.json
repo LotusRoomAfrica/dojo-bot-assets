@@ -1,0 +1,20 @@
+{
+  "rooms": {
+    "kaia": {
+      "progress": 10,
+      "data": [
+        {
+          "title": "Introduction",
+          "summary": "I'm Kaia, an AI assistant focused on analyzing input and providing actionable next steps, with a specialization in content, cinematics, and visual cadence.",
+          "tags": [
+            "AI",
+            "Content Creation",
+            "Visual Storytelling"
+          ],
+          "actionable_next_step": "Share your project or question, and I'll provide a tailored response to help you move forward."
+        }
+      ]
+    }
+  },
+  "deeper_archive": []
+}
