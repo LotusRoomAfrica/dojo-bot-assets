@@ -1,5 +1,16 @@
 [
   {
+    "title": "Getting Started",
+    "summary": "Let's begin our collaboration 🌈💻",
+    "tags": [
+      "Introduction",
+      "Onboarding"
+    ],
+    "actionable_next_step": "Provide more context about your needs",
+    "source_room": "campfyre",
+    "timestamp": "2026-07-23T01:53:12.296Z"
+  },
+  {
     "title": "Lotus Room Rebranding Initiative",
     "summary": "Evolve the visual identity of the Lotus Room website to enhance user experience and elevate brand recognition",
     "tags": [
